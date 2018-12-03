@@ -1,5 +1,5 @@
 # QuotationFixer
-A software to covert quotes to smart quotes in a database.
+A software to convert quotes to smart quotes in a Melodie songs database.
 
 
 Steps
