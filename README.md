@@ -2,9 +2,13 @@
 A software to convert quotes to smart quotes in a Melodie songs database.
 
 
-Steps
-1. Click on the InstallQuotationFixer.EXE file.
-2. Click Download
-3. Open QuotationFixer.exe after downloading if not opened.
-4. Select a database to parse.
-5. Click Start to begin process. A backup file with a timestamp in the name will be created in the same directory as the original file.
+## Steps
+1. Click on QuotationFixer.zip.
+2. Click Download. You may recieve warnings that the file may be dangerous. Select "Keep" or dismiss warnings.
+3. Extract the contents of the zip file.
+4. Open QuotationFixer.exe after downloading. Windows SmartDefender may prevent you from running the file. Click "More Info" and "Run Anyway"
+5. Select a database to parse.
+6. Click Start to begin process. A backup file with a timestamp in the name will be created in the same directory as the original file.
+
+
+
