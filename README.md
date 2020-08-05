@@ -1,6 +1,9 @@
 # QuotationFixer
 A software to convert quotes to smart quotes in a Melodie songs database.
 
+## Smart Quotes vs Dumb Quotes
+Sometimes, “smart quotes” are preferable to "dumb quotes." In this case, songs in a given database contained a mix of “smart quotes” and "dumb quotes." This software was created in order to provide aesthetic and consistency to the song lyrics.
+
 
 ## Steps
 1. Click the link to download : https://github.com/DavidSRoy/QuotationFixer/raw/master/QuotationFixer.zip
